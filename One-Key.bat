@@ -1,4 +1,4 @@
-@ECHO OFF&PUSHD %~DP0 &TITLE 一键进入多模式V1.02.01    发布：云主页_ZhuYe.Cloud
+@ECHO OFF&PUSHD %~DP0 &TITLE One-Key V1.02.01    发布：云主页_ZhuYe.Cloud
 mode con cols=60 lines=30
 color 0A
 :Menu
@@ -9,9 +9,9 @@ echo.
 echo 选择数字后执行命令
 echo=============================================================
 echo.
-echo 输入1执行命令：办公模式（QQ+微信）
+echo 输入1执行命令：娱乐模式（QQ+微信）
 echo.
-echo 输入2执行命令：开发模式（MES+PLSQL/Developer）
+echo 输入2执行命令：工作模式（MES+PLSQL/Developer）
 echo.
 echo 输入3执行命令：1个小时之后自动关机
 echo.
